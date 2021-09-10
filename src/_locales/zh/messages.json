@@ -1,0 +1,89 @@
+{
+    "ext_title" : {
+        "message" : "Twitter 原尺寸预览"
+    ,   "description" : "The title of the extension."
+    }
+,   "ext_short_name" : {
+        "message" : "TVOI"
+    ,   "description" : "The short version of the extension's name."
+    }
+,   "ext_description" : {
+        "message" : "可以在Web版Twitter・TweetDeck中，简单地显示和保存原尺寸图像。"
+    ,   "description" : "The description of the extension."
+    }
+,   "OPTIONS" : {
+        "message" : "Twitter 原尺寸预览"
+    }
+,   "SET" : {
+        "message" : "设定"
+    }
+,   "DEFAULT" : {
+        "message" : "默认"
+    }
+,   "ENABLED" : {
+        "message" : "启用"
+    }
+,   "DISABLED" : {
+        "message" : "禁用"
+    }
+,   "START" : {
+        "message" : "开始"
+    }
+,   "STOP" : {
+        "message" : "停止"
+    }
+,   "DEFAULT_ACTION_ON_CLICK_EVENT" : {
+        "message" : "点击时的默认行为（另外一种行为可以使用 alt + 点击触发）"
+    }
+,   "DISPLAY_ALL_IN_ONE_PAGE_DESCRIPTION" : {
+        "message" : "在一个页面中显示所有图片"
+    }
+,   "DISPLAY_ONE_PER_PAGE_DESCRIPTION" : {
+        "message" : "每页只显示一张图片"
+    }
+,   "DISPLAY_OVERLAY" : {
+        "message" : "悬浮模式"
+    }
+,   "OVERRIDE_CLICK_EVENT" : {
+        "message" : "在点击图片预览时显示图片"
+    }
+,   "SWAP_IMAGE_URL" : {
+        "message" : "将时间线中的图片也更换为原尺寸"
+    }
+,   "DISPLAY_ORIGINAL_BUTTONS" : {
+        "message" : "显示按钮"
+    }
+,   "BUTTON_TEXT_HEADER" : {
+        "message" : "按钮文字"
+    }
+,   "BUTTON_TEXT" : {
+        "message" : "原图"
+    }
+,   "DOWNLOAD_HELPER_IS_VALID_HEADER" : {
+        "message" : "图片下载辅助"
+    }
+,   "ENABLED_ON_TWEETDECK" : {
+        "message" : "TweetDeck"
+    }
+,   "OVERRIDE_GALLERY_FOR_TWEETDECK" : {
+        "message" : "TweetDeck: 将 Gallery 中的图片替换为原尺寸"
+    }
+,   "DOWNLOAD_ORIGINAL_IMAGE" : {
+        "message" : "下载原图"
+    }
+,   "UNDER_SUSPENSION" : {
+        "message" : "Under suspension"
+    }
+,   "HIDE_DOWNLOAD_BUTTON_AUTOMATICALLY" : {
+        "message" : "在悬浮模式下默认隐藏下载按钮"
+    }
+,   "SUPPRESS_FILENAME_SUFFIX" : {
+        "message" : "去除原文件名后缀（如 -orig）"
+    }
+,   "TAB_SORTING" : {
+        "message" : "Tab sorting"
+    }
+,   "TAB_SORTING_ENABLED" : {
+        "message" : "[1][2][3][4]"
+    }
+}
