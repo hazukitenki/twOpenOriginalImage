@@ -3934,7 +3934,7 @@ function initialize( user_options ) {
             */
             
             tweet_list = to_array( node.querySelectorAll( 'div[data-testid="primaryColumn"] article[role="article"]' ) ).filter( ( article ) => {
-                if ( article.querySelector( 'div[data-testid="tweet"]' ) && article.querySelector( 'div[aria-label] > img' ) ) {
+                if ( article.dataset.testid === 'tweet' && article.querySelector( 'div[aria-label] > img' ) ) {
                     return ( !! add_open_button( article ) );
                 }
                 return false;
